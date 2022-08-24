@@ -1,7 +1,7 @@
 ## Department and Collaborators Project
 >Status: Developed ✅
 
-### This is a basic CRUD project.
+### This is a basic CRUD, I developed it to reinforce important concepts.
 
 ## Technologies
 
