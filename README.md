@@ -1,9 +1,9 @@
-## Projeto de Departamento e Colaboradores
->Status: Desenvolvido ✅
+## Department and Collaborators Project
+>Status: Developed ✅
 
-### Esse é um projeto basico de um CRUD de Departamento e Colaboradores, desenvolvido para fixar conceitos importantes da programação.
+### This is a basic CRUD project.
 
-## Tecnologias utilizadas
+## Technologies
 
 + JAVA 11
 + Spring Boot 
@@ -11,7 +11,7 @@
 + Maven
 + H2 Database
 
-## Campos das Entidades e Endpoints
+## Entity Fields | Endpoints
 
 ### Collaborator
 + Long id 
@@ -33,19 +33,18 @@
 + Update: PUT > [url base]/api/departments
 + Delete: DELETE > [url base]/api/departments/[id]
 
-## Como executar o projeto
-### Pré requisitos
+## How to run the project
+### Requirements
 
 + JAVA 17
-+ IDE (de sua preferencia)
++ IDE (of your choice)
 
-### Executando
+### Run
 
-+ Clone esse repósitório do GitHub (comando para utilizar no prompt de comando: ```git clone https://github.com/chavesluucas/GoDev.git```)
-+ Crie uma database no banco de dados com o nome "testgodev"
-+ Importe o projeto em sua IDE ( file > import > Existing Maven Project)
-+ Rode o projeto em sua IDE
-+ Para acessar os endpoints, utilize algum sistema como POSTMAN ou INSOMNIA, por exemplo.
++ Clone this repository (command to use in cmd: ```git clone https://github.com/chavesluucas/GoDev.git```)
++ Import the project into your IDE ( file > import > Existing Maven Project)
++ Run the project in your IDE
++ To access the endpoints use systems like as postman or insomnia.
 
 ## Bonus
-Tenho um site pessoal que desenvolvi em ReactJS, caso você queria me conhecer melhor é só <a href="https://lucaschaves.tech" target="_blank">clicar aqui<a>
+I have a personal website that I developed in ReactJS, if you want to know me better, just <a href="https://lucaschaves.tech" target="_blank">click here<a>
